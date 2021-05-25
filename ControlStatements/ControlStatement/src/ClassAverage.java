@@ -1,3 +1,5 @@
+package ControlStatements.ControlStatement.src;
+
 import java.util.Scanner;
 
 public class ClassAverage {
