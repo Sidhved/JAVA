@@ -1,3 +1,5 @@
+package Basics.src;
+
 import javax.swing.JOptionPane;
 
 public class Dialogue1 {
