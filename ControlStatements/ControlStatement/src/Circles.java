@@ -22,7 +22,7 @@ public class Circles extends JPanel{
 
         application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         application.add(pan);
-        application.setSize(500, 500);
+        application.setSize(250, 250);
         application.setVisible(true);
     }
 }
